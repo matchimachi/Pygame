@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: anaconda-client
+Version: 1.7.2
+Summary: Anaconda Cloud command line client library
+Home-page: http://github.com/Anaconda-Platform/anaconda-client
+Author: Sean Ross-Ross
+Author-email: srossross@gmail.com
+License: BSD License
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Requires-Dist: clyent (>=1.2.0)
+Requires-Dist: nbformat (>=4.4.0)
+Requires-Dist: python-dateutil (>=2.6.1)
+Requires-Dist: pytz
+Requires-Dist: PyYAML (>=3.12)
+Requires-Dist: requests (>=2.9.1)
+Requires-Dist: setuptools
+Requires-Dist: six
+
+UNKNOWN
+
+

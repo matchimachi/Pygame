@@ -1,0 +1,12 @@
+sortedcollections-1.2.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+sortedcollections-1.2.1.dist-info/LICENSE,sha256=64F4_S0IDlYIjrDHq0MHnOynEFzLwoQyIO6JX0ykg2s,557
+sortedcollections-1.2.1.dist-info/METADATA,sha256=lJeHaI_UcyN7a9g7JIbgdsz3R8sqhDdc5hrXVubCqLs,4811
+sortedcollections-1.2.1.dist-info/RECORD,,
+sortedcollections-1.2.1.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+sortedcollections-1.2.1.dist-info/top_level.txt,sha256=7bn8jVapauSGQRJD1E5SvhBefyWn2ao3TRcnFof3PGI,18
+sortedcollections/__init__.py,sha256=k9MynJ6zoAv9hegvwd9bCN7Kysj36nzTRtcExIJq2zM,662
+sortedcollections/__pycache__/__init__.cpython-36.pyc,,
+sortedcollections/__pycache__/ordereddict.cpython-36.pyc,,
+sortedcollections/__pycache__/recipes.cpython-36.pyc,,
+sortedcollections/ordereddict.py,sha256=HexSQw3yDku5jwl_PC7jeKVW82C0qdWiU5uLAbZ8Bck,6574
+sortedcollections/recipes.py,sha256=BizQFYDMG9k3SOC2lBjgPDJqEoMQPdmTSwgD0UHJ8Kg,10421

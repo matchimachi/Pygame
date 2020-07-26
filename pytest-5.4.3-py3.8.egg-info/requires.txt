@@ -1,0 +1,27 @@
+py>=1.5.0
+packaging
+attrs>=17.4.0
+more-itertools>=4.0.0
+pluggy<1.0,>=0.12
+wcwidth
+
+[:python_version < "3.6"]
+pathlib2>=2.2.0
+
+[:python_version < "3.8"]
+importlib-metadata>=0.12
+
+[:sys_platform == "win32"]
+atomicwrites>=1.0
+colorama
+
+[checkqa-mypy]
+mypy==v0.761
+
+[testing]
+argcomplete
+hypothesis>=3.56
+mock
+nose
+requests
+xmlschema
