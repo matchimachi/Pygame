@@ -9,7 +9,7 @@
 import logging
 import pgzrun
 WIDTH = 640
-HEIGHT = 480
+HEIGHT = 470
 pgzrun.go()
 
 from spyder.plugins.completion.languageserver import LSPRequestTypes
