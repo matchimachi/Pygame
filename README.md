@@ -19,3 +19,6 @@ https://www.python.jp/install/anaconda/
 
 #game画面
 https://github.com/matchimachi/Pygame/issues/2#issue-688461129
+
+#ShootingGame画面
+https://github.com/matchimachi/Pygame/issues/5
